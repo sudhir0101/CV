@@ -2,7 +2,7 @@
 ## Contact Information
 - Email: 05sudhirpal@gmail.com
 - Phone: +91 9003068325
-- LinkedIn: [https://www.linkedin.com/in/sudhir-pal/]([https://www.linkedin.com/in/sudhir-pal-54196b53/])
+- LinkedIn: [https://www.linkedin.com/in/sudhir-pal-54196b53/]
 - GitHub: [https://github.com/Sudhirp007]
 - Location: Hyderabad, Telangana - 500084
 
