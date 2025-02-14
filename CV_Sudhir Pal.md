@@ -2,8 +2,8 @@
 ## Contact Information
 - Email: 05sudhirpal@gmail.com
 - Phone: +91 9003068325
-- LinkedIn: [https://www.linkedin.com/in/sudhir-pal/](https://www.linkedin.com/in/sudhir-pal/)
-- GitHub: [Your GitHub Profile URL]
+- LinkedIn: [https://www.linkedin.com/in/sudhir-pal/]([https://www.linkedin.com/in/sudhir-pal-54196b53/])
+- GitHub: [https://github.com/Sudhirp007]
 - Location: Hyderabad, Telangana - 500084
 
 ## Summary
@@ -11,13 +11,10 @@ Results-driven Data Engineer with 9+ years of experience in designing and implem
 
 ## Technical Skills
 - Programming Languages: Python, SQL, Java
-- Big Data Technologies: Spark, Hadoop, Hive
 - Cloud Platforms: AWS (EC2, S3), Azure
-- DevOps Tools: Jenkins, Docker, Kubernetes
 - Data Visualization: Power BI, Tableau
 - Databases: MySQL, PostgreSQL
 - ETL Tools: Informatica, Talend
-- Operating Systems: Linux, Windows
 
 ## Professional Experience
 ### Senior Associate – Business Management Consulting | Merilytics, Hyderabad
@@ -29,7 +26,7 @@ June 2021 – Present
 - Conducted financial analysis to support budget planning and forecasting processes.
 - Worked on process optimization projects that improved operational efficiency by 25%.
 
-### Freelance Data Engineer | Startup Founder
+### Gramoday | Startup Founding Team Member
 2019 – 2021
 - Built a robust data platform to support business growth and decision-making.
 - Developed automated solutions for market analysis and reporting using Python and SQL.
@@ -38,16 +35,9 @@ June 2021 – Present
 - Managed the full lifecycle of data projects, from requirements gathering to deployment.
 
 ## Education
-### B.Tech. in Supply Chain & Operations Management
+### B.Tech
 Indian Institute of Technology (IIT), Delhi
 Graduated: 2015
-
-## Certifications
-- Certified Data Scientist (CDS) – Data Science Council of America (DASCA)
-- Microsoft Office Specialist (MOS): Excel Expert
-- Certified ScrumMaster (CSM)
-- AWS Certified Solutions Architect – Associate
-- Google Cloud Platform (GCP) Certification
 
 ## Additional Information
 - Strong understanding of financial systems and processes
